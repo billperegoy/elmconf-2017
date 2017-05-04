@@ -2,15 +2,15 @@
 
 ## Abstract
 In this talk, I'll teach the audience to create a real-time, multi-user, intereactive web application using Elm and Phoenix. 
-I'll use th example of a platform that allows for crowd-sourcing work on a large task, in this case, the categorization of images. Of cats! As a bonus, the application will also entertain users by providing live updates on the growing cat categories being built while they work.
+I'll use the example of a platform that allows for crowd-sourcing work on a large task, in this case, the categorization of images... off cats! As a bonus, the application will also entertain users by providing live updates on the growing cat categories being built while they work.
 
 This talk will provide a fun way to learn how to integrate an Elm frontend with a Phoenix REST API and Phoenix channels to allow users to work on the same project simultaneously. The talk will culminate in a live demo where the audience will use the application to collabroatively categrorize as many cats as possible in a timed mad dash.
 
 
 ## Talk Details 
-I plan to start this talk with a tongue-in-cheek history of the internet based around the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies, due to the old sluggish, and non-intereactive software platforms available for doing the job.
+I plan to start this talk with a tongue-in-cheek history of the internet based around the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies. 'll also describe the new need for better tools to categorize cats.
 
-I'll outline the steps for building the application to fix this problem and describe its architecture — which uses Elm on the frontend, Phoenix and Elixir on the backend and makes extensive use of Phoenix channels to provide real-time updates. 
+I'll next outline the steps for building the application to fix this problem and describe its architecture — which uses Elm on the frontend, Phoenix and Elixir on the backend and makes extensive use of Phoenix channels to provide real-time updates. 
 
 I'll use pre-prepared code to put the pieces together while explaining the theory and function of each step.
 
