@@ -8,7 +8,7 @@ This talk will provide a fun way to learn how to integrate an Elm frontend with 
 
 
 ## Talk Details 
-I plan to start this talk with a tongue-in-cheek history of the internet based around the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies. 'll also describe the new need for better tools to categorize cats.
+I plan to start this talk with a tongue-in-cheek history of the internet based around the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies. I'll also describe the new need for better tools to categorize cats.
 
 I'll next outline the steps for building the application to fix this problem and describe its architecture — which uses Elm on the frontend, Phoenix and Elixir on the backend and makes extensive use of Phoenix channels to provide real-time updates. 
 
