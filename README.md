@@ -8,15 +8,15 @@ This talk will provide a fun way to learn how to integrate an Elm frontend with 
 
 
 ## Talk Details 
-I plan to start this talk with a tongue-in-cheek history of the internet based on the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies--  the need for better tools to categorize cats.
+I plan to start this talk with a tongue-in-cheek history of the internet based on the premise that for years we didn't have enough cat GIFs, and now that we do, we have a major problem keeping them sorted into suitable taxonomies — thus the need for better tools to categorize cats.
 
 I'll next outline the steps for building the application to fix this problem and describe its architecture — which uses Elm on the frontend, Phoenix and Elixir on the backend and makes extensive use of Phoenix channels to provide real-time updates. 
 
 I'll use pre-prepared code to put the pieces together while explaining the theory and function of each step.
 
-Finally, I'll run a group demo where all audience members may use this application as a group to see how many cat GIFs a room full of Elmconf attendees can categorize in a short demo period. I'll be projecting a dashboard of overall stats from my computer while individual users are receiving more personalized updates in their own browsers.
+Finally, I'll run a demo where all audience members may use this application as a group to see how many cat GIFs a room full of Elmconf attendees can categorize in a short demo period. I'll be projecting a dashboard of overall stats from my computer while individual users are receiving more personalized updates in their own browsers.
 
-I'm hoping the audience members will leave with a clearer idea of how to make Elm and Phoenix play togther. In addition, they will learn how Phoenix channels can work in conjection with Elm to provide real-time, asyncronous communication
+The audience members will leave with a clearer idea of how to make Elm and Phoenix play togther. In addition, they will learn how Phoenix channels can work in conjection with Elm to provide real-time, asyncronous communication
 with a backend server. Hopefully, the audience will also have a lot of fun with the live demo as they get a chance to interact with rhe technology.
 
 
