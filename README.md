@@ -1,5 +1,13 @@
 # Fully Functional: Cat-egorization with Elm and Phoenix
 
+## Biography
+Bill Peregoy is  full-stack software engineer currently employed at Constant
+Contact. After a long career in semiconductor design, Bill moved on to do
+software development, largely in Ruby and JavaScript. After being exposed to Elm
+for the first time at Strange Loop 2015, Bill has immersed himself into the
+functional programming world. Bill is a local advocate for functional
+programming both inside his company and at local meetups.
+
 ## Abstract
 In this talk, I'll teach the audience to create a real-time, multi-user, interactive web application using Elm and Phoenix. 
 I'll use the example of a platform that allows for crowd-sourced work on a large task, in this case, the categorization of images... of cats! As a bonus, the application will also entertain users by providing live updates on the growing cat categories being built while they work.
@@ -14,7 +22,7 @@ I'll next outline the steps for building the application to fix this problem and
 
 I'll use pre-prepared code to put the pieces together while explaining the theory and function of each step.
 
-Finally, I'll run a demo where all audience members may use this application as a group to see how many cat GIFs a room full of Elmconf attendees can categorize in a short demo period. I'll be projecting a dashboard of overall stats from my computer while individual users are receiving more personalized updates in their own browsers.
+Finally, I'll run a demo where all audience members may use this application as a group to see how many cat GIFs a room full of Elm-conf attendees can categorize in a short demo period. I'll be projecting a dashboard of overall stats from my computer while individual users are receiving more personalized updates in their own browsers.
 
 The audience members will leave with a clearer idea of how to make Elm and Phoenix play together. In addition, they will learn how Phoenix channels can work in conjunction with Elm to provide real-time, asynchronous communication
 with a backend server. Hopefully, the audience will also have a lot of fun with the live demo as they get a chance to interact with the technology.
